@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neph\\Desktop\\Homework\\Ch08Ex1GuitarShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A597B72-245F-48D7-9E4D-437F6F9FA699}|GuitarShop\\GuitarShop.csproj|c:\\users\\neph\\desktop\\homework\\ch08ex1guitarshop\\guitarshop\\areas\\admin\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A597B72-245F-48D7-9E4D-437F6F9FA699}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\areas\\admin\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A597B72-245F-48D7-9E4D-437F6F9FA699}|GuitarShop\\GuitarShop.csproj|c:\\users\\neph\\desktop\\homework\\ch08ex1guitarshop\\guitarshop\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A597B72-245F-48D7-9E4D-437F6F9FA699}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A597B72-245F-48D7-9E4D-437F6F9FA699}|GuitarShop\\GuitarShop.csproj|c:\\users\\neph\\desktop\\homework\\ch08ex1guitarshop\\guitarshop\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A597B72-245F-48D7-9E4D-437F6F9FA699}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A597B72-245F-48D7-9E4D-437F6F9FA699}|GuitarShop\\GuitarShop.csproj|c:\\users\\neph\\desktop\\homework\\ch08ex1guitarshop\\guitarshop\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A597B72-245F-48D7-9E4D-437F6F9FA699}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A597B72-245F-48D7-9E4D-437F6F9FA699}|GuitarShop\\GuitarShop.csproj|c:\\users\\neph\\desktop\\homework\\ch08ex1guitarshop\\guitarshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A597B72-245F-48D7-9E4D-437F6F9FA699}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch08Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Areas\\Admin\\Views\\Product\\List.cshtml",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch08Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "GuitarShop\\Areas\\Admin\\Views\\Product\\List.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-17T00:49:53.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch08Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch08Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GuitarShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwHMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T00:48:28.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch08Ex1GuitarShop\\GuitarShop\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Views\\Product\\List.cshtml",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch08Ex1GuitarShop\\GuitarShop\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "GuitarShop\\Views\\Product\\List.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-17T00:43:49.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch08Ex1GuitarShop\\GuitarShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch08Ex1GuitarShop\\GuitarShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GuitarShop\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T00:40:36.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch08Ex1GuitarShop\\GuitarShop\\Models\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Models\\ProductListViewModel.cs",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch08Ex1GuitarShop\\GuitarShop\\Models\\ProductListViewModel.cs",
+              "RelativeToolTip": "GuitarShop\\Models\\ProductListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T00:36:59.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
