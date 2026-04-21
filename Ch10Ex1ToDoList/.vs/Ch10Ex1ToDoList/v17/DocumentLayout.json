@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neph\\Desktop\\Homework\\Ch10Ex1ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEE7672-06A9-4938-B497-CFB5417F52F8}|ToDoList\\ToDoList.csproj|c:\\users\\neph\\desktop\\homework\\ch10ex1todolist\\todolist\\models\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BEE7672-06A9-4938-B497-CFB5417F52F8}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\models\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEE7672-06A9-4938-B497-CFB5417F52F8}|ToDoList\\ToDoList.csproj|c:\\users\\neph\\desktop\\homework\\ch10ex1todolist\\todolist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BEE7672-06A9-4938-B497-CFB5417F52F8}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEE7672-06A9-4938-B497-CFB5417F52F8}|ToDoList\\ToDoList.csproj|c:\\users\\neph\\desktop\\homework\\ch10ex1todolist\\todolist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BEE7672-06A9-4938-B497-CFB5417F52F8}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEE7672-06A9-4938-B497-CFB5417F52F8}|ToDoList\\ToDoList.csproj|c:\\users\\neph\\desktop\\homework\\ch10ex1todolist\\todolist\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BEE7672-06A9-4938-B497-CFB5417F52F8}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch10Ex1ToDoList\\ToDoList\\Views\\Home\\Add.cshtml",
+              "RelativeDocumentMoniker": "ToDoList\\Views\\Home\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch10Ex1ToDoList\\ToDoList\\Views\\Home\\Add.cshtml",
+              "RelativeToolTip": "ToDoList\\Views\\Home\\Add.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T05:04:26.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch10Ex1ToDoList\\ToDoList\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ToDoList\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch10Ex1ToDoList\\ToDoList\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ToDoList\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwDIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T04:58:19.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch10Ex1ToDoList\\ToDoList\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch10Ex1ToDoList\\ToDoList\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ToDoList\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T04:36:54.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch10Ex1ToDoList\\ToDoList\\Models\\ToDoViewModel.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Models\\ToDoViewModel.cs",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch10Ex1ToDoList\\ToDoList\\Models\\ToDoViewModel.cs",
+              "RelativeToolTip": "ToDoList\\Models\\ToDoViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T04:15:44.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
