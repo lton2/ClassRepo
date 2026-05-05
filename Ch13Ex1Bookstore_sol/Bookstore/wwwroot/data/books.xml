@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Books>
+  <Book>
+    <Id>1</Id>
+    <Title>1776</Title>
+    <Authors>David McCullough</Authors>
+    <Price>18</Price>
+    <Genre>History</Genre>
+  </Book>
+  <Book>
+    <Id>2</Id>
+    <Title>1984</Title>
+    <Authors>George Orwell</Authors>
+    <Price>5.5</Price>
+    <Genre>Science Fiction</Genre>
+  </Book>
+  <Book>
+    <Id>3</Id>
+    <Title>And Then There Were None</Title>
+    <Authors>Agatha Christie</Authors>
+    <Price>4.5</Price>
+    <Genre>Mystery</Genre>
+  </Book>
+  <Book>
+    <Id>4</Id>
+    <Title>Band of Brothers</Title>
+    <Authors>Stephen E. Ambrose</Authors>
+    <Price>11.5</Price>
+    <Genre>History</Genre>
+  </Book>
+  <Book>
+    <Id>5</Id>
+    <Title>Beloved</Title>
+    <Authors>Toni Morrison</Authors>
+    <Price>10.99</Price>
+    <Genre>Novel</Genre>
+  </Book>
+  <Book>
+    <Id>6</Id>
+    <Title>Between the World and Me</Title>
+    <Authors>Ta-Nehisi Coates</Authors>
+    <Price>13.5</Price>
+    <Genre>Memoir</Genre>
+  </Book>
+  <Book>
+    <Id>7</Id>
+    <Title>Bossypants</Title>
+    <Authors>Tina Fey</Authors>
+    <Price>4.25</Price>
+    <Genre>Memoir</Genre>
+  </Book>
+  <Book>
+    <Id>8</Id>
+    <Title>Brave New World</Title>
+    <Authors>Aldous Huxley</Authors>
+    <Price>16.25</Price>
+    <Genre>Science Fiction</Genre>
+  </Book>
+  <Book>
+    <Id>9</Id>
+    <Title>D-Day</Title>
+    <Authors>Stephen E. Ambrose</Authors>
+    <Price>15</Price>
+    <Genre>History</Genre>
+  </Book>
+  <Book>
+    <Id>10</Id>
+    <Title>Down and Out in Paris and London</Title>
+    <Authors>George Orwell</Authors>
+    <Price>12.5</Price>
+    <Genre>Memoir</Genre>
+  </Book>
+  <Book>
+    <Id>11</Id>
+    <Title>Dune</Title>
+    <Authors>Frank Herbert</Authors>
+    <Price>8.75</Price>
+    <Genre>Science Fiction</Genre>
+  </Book>
+  <Book>
+    <Id>12</Id>
+    <Title>Emma</Title>
+    <Authors>Jane Austen</Authors>
+    <Price>9</Price>
+    <Genre>Novel</Genre>
+  </Book>
+  <Book>
+    <Id>13</Id>
+    <Title>Frankenstein</Title>
+    <Authors>Mary Shelley</Authors>
+    <Price>6.5</Price>
+    <Genre>Science Fiction</Genre>
+  </Book>
+  <Book>
+    <Id>14</Id>
+    <Title>Go Tell it on the Mountain</Title>
+    <Authors>James Baldwin</Authors>
+    <Price>10.25</Price>
+    <Genre>Novel</Genre>
+  </Book>
+  <Book>
+    <Id>15</Id>
+    <Title>Guns, Germs, and Steel</Title>
+    <Authors>Jared Diamond</Authors>
+    <Price>15.5</Price>
+    <Genre>History</Genre>
+  </Book>
+  <Book>
+    <Id>16</Id>
+    <Title>Hunger</Title>
+    <Authors>Roxane Gay</Authors>
+    <Price>14.5</Price>
+    <Genre>Memoir</Genre>
+  </Book>
+  <Book>
+    <Id>17</Id>
+    <Title>Murder on the Orient Express</Title>
+    <Authors>Agatha Christie</Authors>
+    <Price>6.75</Price>
+    <Genre>Mystery</Genre>
+  </Book>
+  <Book>
+    <Id>18</Id>
+    <Title>Pride and Prejudice</Title>
+    <Authors>Jane Austen</Authors>
+    <Price>8.5</Price>
+    <Genre>Novel</Genre>
+  </Book>
+  <Book>
+    <Id>19</Id>
+    <Title>Rebecca</Title>
+    <Authors>Daphne Du Maurier</Authors>
+    <Price>10.99</Price>
+    <Genre>Mystery</Genre>
+  </Book>
+  <Book>
+    <Id>20</Id>
+    <Title>The Art of War</Title>
+    <Authors>Sun Tzu</Authors>
+    <Price>5.75</Price>
+    <Genre>History</Genre>
+  </Book>
+  <Book>
+    <Id>21</Id>
+    <Title>The Girl with the Dragon Tattoo</Title>
+    <Authors>Stieg Larsson</Authors>
+    <Price>8.5</Price>
+    <Genre>Mystery</Genre>
+  </Book>
+  <Book>
+    <Id>22</Id>
+    <Title>The Handmaid's Tale</Title>
+    <Authors>Margaret Atwood</Authors>
+    <Price>12.5</Price>
+    <Genre>Science Fiction</Genre>
+  </Book>
+  <Book>
+    <Id>23</Id>
+    <Title>The Maltese Falcon</Title>
+    <Authors>Dashiel Hammett</Authors>
+    <Price>10.99</Price>
+    <Genre>Mystery</Genre>
+  </Book>
+  <Book>
+    <Id>24</Id>
+    <Title>The New Jim Crow</Title>
+    <Authors>Michelle Alexander</Authors>
+    <Price>13.75</Price>
+    <Genre>History</Genre>
+  </Book>
+  <Book>
+    <Id>25</Id>
+    <Title>The Year of Magical Thinking</Title>
+    <Authors>Joan Didion</Authors>
+    <Price>13.5</Price>
+    <Genre>Memoir</Genre>
+  </Book>
+  <Book>
+    <Id>26</Id>
+    <Title>Wuthering Heights</Title>
+    <Authors>Emily Bronte</Authors>
+    <Price>9</Price>
+    <Genre>Novel</Genre>
+  </Book>
+  <Book>
+    <Id>27</Id>
+    <Title>Running With Scissors</Title>
+    <Authors>Augusten Burroughs</Authors>
+    <Price>11</Price>
+    <Genre>Memoir</Genre>
+  </Book>
+  <Book>
+    <Id>28</Id>
+    <Title>Pride and Prejudice and Zombies</Title>
+    <Authors>Jane Austen, Seth Grahame-Smith</Authors>
+    <Price>8.75</Price>
+    <Genre>Novel</Genre>
+  </Book>
+  <Book>
+    <Id>29</Id>
+    <Title>Harry Potter and the Sorcerer's Stone</Title>
+    <Authors>JK Rowling</Authors>
+    <Price>9.75</Price>
+    <Genre>Novel</Genre>
+  </Book>
+</Books>
