@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79615BF5-3528-4864-82BE-F96BC80C6919}|ClassScheduleTests\\ClassScheduleTests.csproj|c:\\users\\neph\\desktop\\homework\\ch14ex1classschedule\\classscheduletests\\classscheduletests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{79615BF5-3528-4864-82BE-F96BC80C6919}|ClassScheduleTests\\ClassScheduleTests.csproj|solutionrelative:classscheduletests\\classscheduletests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA376BB9-350D-433E-8BA4-E308E2707645}|ClassSchedule\\ClassSchedule.csproj|c:\\users\\neph\\desktop\\homework\\ch14ex1classschedule\\classschedule\\classschedule.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DA376BB9-350D-433E-8BA4-E308E2707645}|ClassSchedule\\ClassSchedule.csproj|solutionrelative:classschedule\\classschedule.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79615BF5-3528-4864-82BE-F96BC80C6919}|ClassScheduleTests\\ClassScheduleTests.csproj|c:\\users\\neph\\desktop\\homework\\ch14ex1classschedule\\classscheduletests\\teachercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79615BF5-3528-4864-82BE-F96BC80C6919}|ClassScheduleTests\\ClassScheduleTests.csproj|solutionrelative:classscheduletests\\teachercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA376BB9-350D-433E-8BA4-E308E2707645}|ClassSchedule\\ClassSchedule.csproj|c:\\users\\neph\\desktop\\homework\\ch14ex1classschedule\\classschedule\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA376BB9-350D-433E-8BA4-E308E2707645}|ClassSchedule\\ClassSchedule.csproj|solutionrelative:classschedule\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA376BB9-350D-433E-8BA4-E308E2707645}|ClassSchedule\\ClassSchedule.csproj|c:\\users\\neph\\desktop\\homework\\ch14ex1classschedule\\classschedule\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA376BB9-350D-433E-8BA4-E308E2707645}|ClassSchedule\\ClassSchedule.csproj|solutionrelative:classschedule\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA376BB9-350D-433E-8BA4-E308E2707645}|ClassSchedule\\ClassSchedule.csproj|c:\\users\\neph\\desktop\\homework\\ch14ex1classschedule\\classschedule\\models\\datalayer\\iclassscheduleunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA376BB9-350D-433E-8BA4-E308E2707645}|ClassSchedule\\ClassSchedule.csproj|solutionrelative:classschedule\\models\\datalayer\\iclassscheduleunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79615BF5-3528-4864-82BE-F96BC80C6919}|ClassScheduleTests\\ClassScheduleTests.csproj|c:\\users\\neph\\desktop\\homework\\ch14ex1classschedule\\classscheduletests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79615BF5-3528-4864-82BE-F96BC80C6919}|ClassScheduleTests\\ClassScheduleTests.csproj|solutionrelative:classscheduletests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA376BB9-350D-433E-8BA4-E308E2707645}|ClassSchedule\\ClassSchedule.csproj|c:\\users\\neph\\desktop\\homework\\ch14ex1classschedule\\classschedule\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA376BB9-350D-433E-8BA4-E308E2707645}|ClassSchedule\\ClassSchedule.csproj|solutionrelative:classschedule\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA376BB9-350D-433E-8BA4-E308E2707645}|ClassSchedule\\ClassSchedule.csproj|c:\\users\\neph\\desktop\\homework\\ch14ex1classschedule\\classschedule\\models\\datalayer\\classscheduleunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA376BB9-350D-433E-8BA4-E308E2707645}|ClassSchedule\\ClassSchedule.csproj|solutionrelative:classschedule\\models\\datalayer\\classscheduleunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA376BB9-350D-433E-8BA4-E308E2707645}|ClassSchedule\\ClassSchedule.csproj|c:\\users\\neph\\desktop\\homework\\ch14ex1classschedule\\classschedule\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA376BB9-350D-433E-8BA4-E308E2707645}|ClassSchedule\\ClassSchedule.csproj|solutionrelative:classschedule\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassScheduleTests",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassScheduleTests\\ClassScheduleTests.csproj",
+              "RelativeDocumentMoniker": "ClassScheduleTests\\ClassScheduleTests.csproj",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassScheduleTests\\ClassScheduleTests.csproj",
+              "RelativeToolTip": "ClassScheduleTests\\ClassScheduleTests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-10T06:23:03.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassSchedule",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassSchedule\\ClassSchedule.csproj",
+              "RelativeDocumentMoniker": "ClassSchedule\\ClassSchedule.csproj",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassSchedule\\ClassSchedule.csproj",
+              "RelativeToolTip": "ClassSchedule\\ClassSchedule.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-10T06:21:18.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassSchedule\\Startup.cs",
+              "RelativeDocumentMoniker": "ClassSchedule\\Startup.cs",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassSchedule\\Startup.cs",
+              "RelativeToolTip": "ClassSchedule\\Startup.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T04:45:38.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassSchedule\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "ClassSchedule\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassSchedule\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "ClassSchedule\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T05:19:34.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassScheduleTests\\TeacherControllerTests.cs",
+              "RelativeDocumentMoniker": "ClassScheduleTests\\TeacherControllerTests.cs",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassScheduleTests\\TeacherControllerTests.cs",
+              "RelativeToolTip": "ClassScheduleTests\\TeacherControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T05:07:16.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IClassScheduleUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassSchedule\\Models\\DataLayer\\IClassScheduleUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ClassSchedule\\Models\\DataLayer\\IClassScheduleUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassSchedule\\Models\\DataLayer\\IClassScheduleUnitOfWork.cs",
+              "RelativeToolTip": "ClassSchedule\\Models\\DataLayer\\IClassScheduleUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T04:49:51.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassScheduleTests\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "ClassScheduleTests\\HomeControllerTests.cs",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassScheduleTests\\HomeControllerTests.cs",
+              "RelativeToolTip": "ClassScheduleTests\\HomeControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T05:22:27.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassSchedule\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ClassSchedule\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassSchedule\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ClassSchedule\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T04:56:49.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassScheduleUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassSchedule\\Models\\DataLayer\\ClassScheduleUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ClassSchedule\\Models\\DataLayer\\ClassScheduleUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassSchedule\\Models\\DataLayer\\ClassScheduleUnitOfWork.cs",
+              "RelativeToolTip": "ClassSchedule\\Models\\DataLayer\\ClassScheduleUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T04:50:34.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassSchedule\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "ClassSchedule\\Controllers\\ClassController.cs",
+              "ToolTip": "C:\\Users\\Neph\\Desktop\\Homework\\Ch14Ex1ClassSchedule\\ClassSchedule\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "ClassSchedule\\Controllers\\ClassController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T05:00:44.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
